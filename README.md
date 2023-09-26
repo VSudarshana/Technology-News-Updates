@@ -1,5 +1,8 @@
 # Technology-News-Updates
-A Chrome extension that displays technology news updates.
+A Chrome extension that displays technology news updates. 
+
+![Screenshot (211)](https://github.com/VSudarshana/Technology-News-Updates/assets/140592185/c597d271-49c2-4253-a409-ea1222bfb69f)
+
 
 ![image](https://github.com/VSudarshana/Technology-News-Updates/assets/140592185/468cc17b-c977-4ec8-a41d-9586a207f8b2) 
 
